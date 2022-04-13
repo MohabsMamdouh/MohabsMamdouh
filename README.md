@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohabsMamdouh, I'm a Backend Developer PHP.
+- 👋 Hi, I’m @MohabsMamdouh, I'm a Backend Developer laravel PHP.
 - 👀 I’m interested in Programming spically Web Development.
 - 🌱 I’m currently learning Laravel.
 - 💞️ I’m looking for jobs in a company or individual projects.

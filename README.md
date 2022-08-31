@@ -17,7 +17,7 @@
 </div>
 
 <div>
-  <h4>Skills</h4>
+  <h2>Skills</h2>
   <ul>
     <li>
       <b>Backend</b><br>

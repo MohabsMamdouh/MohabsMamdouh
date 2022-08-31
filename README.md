@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1>Hi, I'm Mohab</h1>
+<p align="center">
+  <span>
+    <a href="https://www.linkedin.com/in/mohab-mamdouh-9307a57b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </span>
+  <span>
+    <a href="http://mohablog.herokuapp.com/"><img src="https://img.shields.io/badge/mySite-red?style=for-the-badge&logo=appveyor&logoColor=white"/></a>
+  </span>
+</p>
 
-<!--
-**MohabsMamdouh/MohabsMamdouh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <ul>
+    <li>I'm a backend developer PHP/Laravel.</li>
+    <li>has 1 year of experience in backend development websites.</li>
+    <li>Develop functions with a good knowledge of Web Applications Development.</li>
+  </ul>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <h4>Skills</h4>
+  <ul>
+    <li>
+      <b>Backend</b><br>
+      <p>PHP – Laravel - Wordpress</p>
+    </li>
+    <li>
+      <b>Database</b><br>
+      <p>MYSQL</p>
+    </li>
+    <li>
+      <b>Frontend</b><br>
+      <p>HTML – CSS - Bootstrap</p>
+    </li>
+    <li>
+      <b>Other Skill</b><br>
+      <p>OOP – MVC – GIT – AJAX - Json</p>
+    </li>
+    <li>
+      <b>Little Knowledge</b><br>
+      <p>JavaScript - JQuery</p>
+    </li>
+    <li>
+      <b>Prior Knowledge</b><br>
+      <p>Python – Java </p>
+    </li>
+  </ul>
+</div>

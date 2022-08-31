@@ -18,7 +18,7 @@
 
 <div>
   <h2>Skills</h2>
-  <ul>
+  <ul style="float: left; width: 50%;">
     <li>
       <b>Backend</b><br>
       <p>PHP – Laravel - Wordpress</p>

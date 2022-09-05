@@ -29,7 +29,7 @@
     </li>
     <li>
       <b>Frontend</b><br>
-      <p>HTML – CSS - Bootstrap - Tailwind css</p>
+      <p>HTML – CSS - Bootstrap - Tailwindcss</p>
     </li>
     <li>
       <b>Other Skill</b><br>

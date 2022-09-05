@@ -21,7 +21,7 @@
   <ul style="float: left; width: 50%;">
     <li>
       <b>Backend</b><br>
-      <p>PHP – Laravel - Wordpress</p>
+      <p>PHP – Laravel</p>
     </li>
     <li>
       <b>Database</b><br>
@@ -29,7 +29,7 @@
     </li>
     <li>
       <b>Frontend</b><br>
-      <p>HTML – CSS - Bootstrap</p>
+      <p>HTML – CSS - Bootstrap - Tailwind css</p>
     </li>
     <li>
       <b>Other Skill</b><br>
@@ -37,7 +37,7 @@
     </li>
     <li>
       <b>Little Knowledge</b><br>
-      <p>JavaScript - JQuery</p>
+      <p>JavaScript - JQuery - WordPress</p>
     </li>
     <li>
       <b>Prior Knowledge</b><br>

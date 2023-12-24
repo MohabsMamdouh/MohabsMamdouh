@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohab</h1>
+<h1>Hi, I'm Mohab Mamdouh</h1>
 <p align="center">
   <span>
     <a href="https://www.linkedin.com/in/mohab-mamdouh-9307a57b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,9 +13,12 @@
 
 <div>
   <ul>
-    <li>I'm a backend developer PHP/Laravel.</li>
-    <li>has 1 year of experience in backend development websites.</li>
+    <li>I'm a backend developer in PHP/Laravel.</li>
+    <li>has over a year of experience in backend development websites.</li>
     <li>Develop functions with a good knowledge of Web Applications Development.</li>
+    <li>Motivated and results-driven professional with training experience in Backend Developer.</li>
+    <li>Adept at PHP-Laravel, committed to overcoming challenges and contributing positively to projects.</li>
+    <li>Seeking opportunities to apply skills and knowledge gained through training in a dynamic work environment.</li>
   </ul>
 </div>
 
